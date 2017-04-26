@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mpetruska/one-lensing.svg?branch=master)](https://travis-ci.org/mpetruska/uk-modulo-scala)
+
 One-lensing data abstraction mini-library
 =========================================
 
