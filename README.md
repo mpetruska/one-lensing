@@ -74,7 +74,7 @@ data type:
 ```Scala
 import scalaz.Id.Id
 
-val orinal: A
+val original: A
 val image: ImageLenses[Id, A, A]
 
 def addGreenOverlay(x: Seq[Seq[Int]]): Seq[Seq[Int]] = x.map(_.map(_ => 255))
